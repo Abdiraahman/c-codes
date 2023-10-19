@@ -31,7 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="for loop.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="while loop.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Extensions>
