@@ -36,6 +36,7 @@
 		</Unit>
 		<Unit filename="while loop.c">
 			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>
 			<lib_finder disable_auto="1" />
